@@ -1,5 +1,5 @@
-const connect = require('./utils').connect;
-const bail = require('./utils').bail;
+const connect = require('../utils').connect;
+const bail = require('../utils').bail;
 
 const ex = 'io';
 
